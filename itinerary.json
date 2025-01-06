@@ -1,0 +1,82 @@
+{
+    "events": [
+      {
+        "date": "2025-01-10",
+        "time": "06:00pm",
+        "event": "Welcome Dinner (optional)",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-10",
+        "time": "7:00pm",
+        "event": "Happy Hour (optional)",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "9:00am",
+        "event": "Breakfast (optional)",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "9:15am",
+        "event": "Intro + Q&A",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "10:00am",
+        "event": "Hard Problems",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "11:00am",
+        "event": "Customer Conversations",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "12:30pm",
+        "event": "Lunch",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "1:30pm",
+        "event": "Hard Problems",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "5:00pm",
+        "event": "Free Time",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "7:30pm",
+        "event": "Dinner",
+        "location": "Chino Grande"
+      },
+      {
+        "date": "2025-01-11",
+        "time": "9:00pm",
+        "event": "Work Session + Happy Hour (optional)",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-12",
+        "time": "9:00am",
+        "event": "Breakfast",
+        "location": "The Apartment"
+      },
+      {
+        "date": "2025-01-12",
+        "time": "10:00am",
+        "event": "Work Session + Office Hours (optional",
+        "location": "The Apartment"
+      }
+    ]
+  }
