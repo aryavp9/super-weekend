@@ -28,13 +28,15 @@
         "date": "2025-01-11",
         "time": "10:00am",
         "event": "Hard Problems",
-        "location": "The Apartment"
+        "location": "The Apartment",
+         "description": "Collaboration/brainstorming session for <a href='https://docs.google.com/document/d/1FQnbcZ3GWopPe7Yvzqkn1a9Ql8-kuScKb56b1JZB3UQ/edit?tab=t.0#heading=h.cfwtqm2bfx2f'>hard problems</a>"
       },
       {
         "date": "2025-01-11",
         "time": "11:00am",
         "event": "Customer Conversations",
-        "location": "The Apartment"
+        "location": "The Apartment",
+        "description": " <a href='https://www.ycombinator.com/library/Iq-how-to-talk-to-users'>Some useful guidance.</a>"
       },
       {
         "date": "2025-01-11",
@@ -46,7 +48,8 @@
         "date": "2025-01-11",
         "time": "1:30pm",
         "event": "Hard Problems",
-        "location": "The Apartment"
+        "location": "The Apartment",
+         "description": "Independent work session for <a href='https://docs.google.com/document/d/1FQnbcZ3GWopPe7Yvzqkn1a9Ql8-kuScKb56b1JZB3UQ/edit?tab=t.0#heading=h.cfwtqm2bfx2f'>hard problems</a>"
       },
       {
         "date": "2025-01-11",
@@ -76,7 +79,8 @@
         "date": "2025-01-12",
         "time": "10:00am",
         "event": "Work Session + Office Hours (optional",
-        "location": "The Apartment"
+        "location": "The Apartment",
+         "description": "Optional to meet us in the apartment for feedback on your case. <a href='https://docs.google.com/spreadsheets/d/1PypW9VmNutQ3910zXlHOzFKK8joPXPdbdESeONPXYpw/edit?usp=sharing'>Signup here.</a>"
       }
     ]
   }
